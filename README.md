@@ -1,5 +1,5 @@
 # Laserage bot
-A bot which can win the game Laser Age. Laser Age is a 2D space shooter from 1999 which I used to play during my childhood. I decided to make a bot because I've never been able to beat it manually. I've made a Youtube video winning the game for the first time, while also adding the final touches to the code, [link here](https://www.youtube.com/watch?v=UdI1vJwmLKI).
+A bot that can win the game LaserAge. LaserAge is a 2D space shooter from 1999 which I used to play during my childhood. I decided to make a bot because I've never been able to beat it manually. I've made a Youtube video winning the game for the first time, while also adding the final touches to the code, [link here](https://www.youtube.com/watch?v=UdI1vJwmLKI).
 
 ![Game Screenshot](sample_graphics/game_screenshot.jpg)
 

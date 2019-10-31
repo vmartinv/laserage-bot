@@ -127,9 +127,10 @@ bool is_paused_key_pressed() {
 }
 
 void print_help() {
-
-	cout << "LaserAge bot." << endl;
-	cout << "To use, start the game. Make sure the game window is active. Then, press F6 to start/pause the bot." << endl;
+	cout << "==LaserAge bot==" << endl;
+	cout << endl;
+	cout << "To use, start the game. Make sure the game window is active." << endl;
+	cout << "Then, press F6 to start / pause the bot." << endl;
 }
 
 #define CLICK_INTERVAL 2

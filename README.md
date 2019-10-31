@@ -6,4 +6,12 @@ A bot that can win the game LaserAge. LaserAge is a 2D space shooter from 1999 w
 You can download the game from [here](http://www.freegamesarea.com/laserage-gold.html) (I'm not responsible for that website).
 
 # How it works
-The bots works by scanning one line of the screen and avoiding the bullets by controlling the computer mouse. It also detects power ups and tries to catch them.
+The bots works by scanning the screen and avoiding the bullets by controlling the computer mouse. It also detects power ups and tries to catch them.
+
+# How to use
+Run the bot and start the game. Make sure the game window is active. Then, press F6 to start / pause the bot.
+
+Note: You can get the already compiled bot in the release section.
+
+# Compilation
+> cmake .
